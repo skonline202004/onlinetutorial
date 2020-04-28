@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoogleCalClient/GoogleCalClient.iml" filepath="$PROJECT_DIR$/GoogleCalClient/GoogleCalClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PublicWebServiceClient/PublicWebServiceClient.iml" filepath="$PROJECT_DIR$/PublicWebServiceClient/PublicWebServiceClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/onlinetutorial.iml" filepath="$PROJECT_DIR$/.idea/onlinetutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
     </modules>
   </component>
 </project>
