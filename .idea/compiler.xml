@@ -10,8 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GoogleCalClient" target="7" />
-      <module name="PublicWebServiceClient" target="1.5" />
+      <module name="PublicWebServiceClient" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>
